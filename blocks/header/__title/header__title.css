@@ -2,7 +2,7 @@
   width: 730px;
   display: flex;
   align-self: center;
-  margin-left: 64px;
+  margin: 0 0 0 64px;
   font-size: 102px;
   line-height: 96px;
   z-index: 2;

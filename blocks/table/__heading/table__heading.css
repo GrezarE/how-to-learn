@@ -2,7 +2,5 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
-  margin-bottom: 20px;
-  /* В брифе паддинга нет, но визуально отступ от верхней границы table__cell есть*/
-  padding-top: 10px;
+  margin: 0 0 20px;
 }
