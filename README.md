@@ -10,3 +10,6 @@
 <li> Для стилей использовался язык CSS
 <li> Проект структурирован по методу БЭМ
 
+  
+ ### GH Pages
+  https://grezare.github.io/how-to-learn/
